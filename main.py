@@ -1,6 +1,6 @@
 #Importing Libraries
 
-import numpy as np
+'''import numpy as np
 import cv2
 import tkinter as tk
 import tkinter.messagebox  
@@ -52,4 +52,5 @@ while True:
 			my_label.pack(pady=20)
 			my_label.after(5000, lock)
 			#root.destroy()
-			root.mainloop()
+			root.mainloop()'''
+print("Hello Jenkins")
